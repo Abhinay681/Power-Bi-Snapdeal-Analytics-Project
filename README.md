@@ -69,7 +69,7 @@ This version of the Snapdeal Analytics project presents **6 analytical tasks doc
 
 * **Single Dashboard File:**
 
-  * [Complete Power BI Dashboard](DASHBOARD's.pbix)
+* [Complete Power BI Dashboard](DASHBOARD's.pbix)
 * Contains all visuals corresponding to Tasks 1–5
 * Task 6 is interpretation-only and does not require a dashboard
 
